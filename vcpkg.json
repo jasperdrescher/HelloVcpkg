@@ -1,0 +1,11 @@
+{
+  "name": "hellovcpkg",
+  "version-string": "0.1.0",
+  "dependencies": [
+    {
+      "name": "glad",
+      "platform": "windows"
+    },
+    "glfw3"
+  ]
+}
