@@ -1,3 +1,6 @@
+## Custom ignore
+[Bb]uild/
+
 ## Ignore C++ temporary files
 ##
 ## Get latest from https://raw.githubusercontent.com/github/gitignore/main/C%2B%2B.gitignore
