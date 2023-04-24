@@ -1,5 +1,6 @@
 ## Custom ignore
 [Bb]uild/
+vcpkg_installed/
 
 ## Ignore C++ temporary files
 ##
